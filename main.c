@@ -69,7 +69,7 @@ int main(){
   box[3].high  = 122;
 
 
-  for(int i = 0; i <= total; i++){
+  for(int i = 1; i <= total; i++){
 
     printf("%d  --> ", i);
     // fprintf(fp, "%d ", i);
